@@ -1,0 +1,99 @@
+
+li{
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	padding:  1%;
+	position: relative;
+	top: 60px;
+	
+}
+
+.cajaheader{
+	background-color: #474747;
+}
+
+.cajagris{
+	background-color: #F2F2F2;
+}
+.firstep{
+font-family: Verdana;
+font-size: 19px;
+color: black;
+padding-top: 12px;
+padding-bottom: 12px;
+
+}
+
+.seconep{
+	font-family:sans-serif;
+	font-size:15px;
+	color: blue;
+	position: relative;
+	top: 6px;
+	right: 60px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.lineadecuatro{
+	height: 210px;
+	width: 210px;
+	border: solid white;
+
+}
+
+span{
+	font-family: Arial;
+	font-size: 10px;
+	color:white;
+	text-align: center;
+}
+
+.cajablanca{
+	background-color: white;
+}
+
+.lineacinco{
+	height: 100px;
+	width: 100px;
+	border:solid gray;
+	margin-top:15px;
+}
+
+.podcast{
+	height:12px; 
+	width:12px;
+	margin-right: 6px;
+}
+
+hr{
+	color:gray;
+
+}
+
+.suscribe{
+	padding-bottom: 20px;
+}
+.apps{
+	padding-bottom: 40px;
+}
+
+.cajagrisfuerte{
+	background-color: #585858;
+}
+
+#info {
+font-size: 15px;
+font-family: Arial;
+color: white;
+}
+#derechos {
+font-size: 10px;
+font-family: Arial;
+color:white;
+text-align: center;
+padding: 3%;
+}
+
+
